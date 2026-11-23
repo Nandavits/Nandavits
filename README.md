@@ -10,7 +10,7 @@
 
 - Own the analytics layer of **curaFee**, a production medical billing platform at **Curagita AG**: dbt models on PostgreSQL, Apache Airflow pipelines, Kafka ingestion on Kubernetes in Google Cloud, and Superset dashboards.
 - Find and fix data-quality problems before they reach a dashboard. For example, I traced 14 quarters of silently missing data to its root cause and corrected a revenue overstatement against official billing statements.
-- Finishing an **M.Sc. in Data Science** at IU Berlin (December 2026).
+- Finishing an **M.Sc. in Data Science** at IU Berlin (December 2026). Thesis: *Comparing Statistical, Machine Learning and Foundation Models for Retail Demand Forecasting: Evidence from a German Retail Chain*.
 
 ## Featured project
 
