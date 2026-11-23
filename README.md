@@ -4,7 +4,7 @@
 
 🌐 **Portfolio:** [nandavits.github.io](https://nandavits.github.io) · 📄 [CV (PDF)](https://nandavits.github.io/Nanda_Mummadireddy_CV.pdf) · 💼 [LinkedIn](https://linkedin.com/in/nandamummadireddy) · ✉️ nandavits586@gmail.com
 
-**Open to full-time Data Engineer, Analytics Engineer and BI Engineer roles in Germany. Available now.**
+**Open to full-time Data Engineer, Analytics Engineer and BI Engineer roles in Germany. Available now. Allowed to work full-time in Germany, no visa sponsorship needed.**
 
 ## What I do
 
